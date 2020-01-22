@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  pp array[0] 
+  itm = 0 
+  for array.
 end
