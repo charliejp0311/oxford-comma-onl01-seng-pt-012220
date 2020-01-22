@@ -1,4 +1,5 @@
 def oxford_comma(array)
   itm = 0 
-  for array.
+  array.each do |item|
+    pp array[itm]
 end
